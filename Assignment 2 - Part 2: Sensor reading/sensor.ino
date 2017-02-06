@@ -1,7 +1,7 @@
 
 int analogPin = 0;
 int photocellReading;     // the analog reading from the sensor divider
-int LEDpin = 10;          // connect Red LED to pin 11 (PWM pin)
+int LEDpin = 11;          // connect Red LED to pin 11 (PWM pin)
 int LEDbrightness; 
 
 
